@@ -8,4 +8,5 @@
 /var/
 /vendor/
 annotations.md
+.env
 ###< symfony/framework-bundle ###
